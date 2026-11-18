@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.pt
+!models/best.pt
+*.onnx
+runs/
+dataset/
+raw/
+.streamlit/secrets.toml
